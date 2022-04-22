@@ -1,0 +1,92 @@
+body{
+    text-align: center;
+    padding: 7%;
+    background-color: #557B83;
+}
+#title{
+    font-size: 80px;
+    color: #E5EFC1;
+    font-family: 'Lora', serif;
+}
+.set{
+    padding-top: 60px;
+    position: absolute;
+    margin-left: 150px;
+    border-color:#E5EFC1;
+    font-size: 20px;
+    
+}
+
+
+.drum{
+    outline: none;
+    border: 10px solid #78938A;
+    font-size: 5rem;
+    font-family: 'Merriweather Sans', sans-serif;
+    line-height: 2;
+    font-weight: 900;
+    color: #da0463;
+    text-shadow: 3px 0 #dbedf3;
+    border-radius: 15px;
+    display: inline-block;
+    width: 150px;
+    height:150px;
+    text-align: center;
+    margin: 10px;
+
+    
+
+}
+
+.s{
+   
+    background-image: url("drum.png");
+}
+.a{
+    background-image: url("bass-drum.png");
+}
+.t{
+    background-image: url("bass-drum 2.png");
+
+}
+.h{
+    background-image: url("bass-drum 3.png");
+}
+.y{
+    background-image: url("bass-drum 4.png");
+}
+.i{
+    background-image: url("bass-drum 5.png");
+}
+.s:hover{
+    background-color: #dbedf3;
+    opacity: 0.5;
+}
+.a:hover{
+    background-color: #dbedf3;
+    opacity: 0.5;
+
+}
+.t:hover{
+    background-color: #dbedf3;
+    opacity: 0.5;
+
+}
+.h:hover{
+    background-color: #dbedf3;
+    opacity: 0.5;
+
+}
+.y:hover{
+    background-color: #dbedf3;
+    opacity: 0.5;
+
+}
+.i:hover{
+    background-color: #dbedf3;
+    opacity: 0.5;
+
+}
+
+
+
